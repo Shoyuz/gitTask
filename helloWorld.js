@@ -1,1 +1,2 @@
-console.log("Git is Awesome");
+let userInput;
+console.log(userInput);
